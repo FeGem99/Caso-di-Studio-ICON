@@ -1,6 +1,4 @@
 # ICON
-predizione cancro alle ovaie
-
 Componenti:
 
 Emanuele de Stena [matr.744397] 
