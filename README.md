@@ -1,3 +1,9 @@
 # ICON
 predizione cancro alle ovaie
-Componenti:Barbaro Andrea, De Stena Emanuele, Gemma Federico
+
+Componenti:
+
+Emanuele de Stena [matr.744397] 
+Federico Gemma [matr.741217] 
+Andrea Barbaro [matr.739797] 
+
